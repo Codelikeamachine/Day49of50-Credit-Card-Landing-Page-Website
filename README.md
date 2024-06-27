@@ -18,8 +18,11 @@ Attractive UI with various sections: navigation, hero section, features, testimo
 Usage of modern CSS properties and animations
 Integration with Font Awesome for icons
 # Technologies Used
+
 HTML5
+
 CSS3
+
 Font Awesome
 
 # Usage
@@ -27,9 +30,7 @@ Navigate through different sections using the menu bar.
 Explore the features and services provided by the fictional credit card company.
 View testimonials and statistics to understand user satisfaction and experience.
 # Project Structure
-
 credit-card-landing-page/
-
 ├── Assets/
 │   ├── Icons/
 │   └── Photos/
