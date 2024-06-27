@@ -3,7 +3,7 @@
 This is a credit card landing page project created as part of my 50 days of web development challenge (Day 49). The landing page showcases the features, services, and unique card choices of a fictional credit card company. It includes sections for navigation, promotional content, user testimonials, and a call to action.
 
 # Live Demo :
-
+https://codelikeamachine.github.io/Day49of50-Credit-Card-Landing-Page-Website/
 
 # Join Me :
 Github: https://github.com/Codelikeamachine
