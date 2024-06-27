@@ -31,13 +31,9 @@ View testimonials and statistics to understand user satisfaction and experience.
 credit-card-landing-page/
 
 ├── Assets/
-
 │   ├── Icons/
-
 │   └── Photos/
-
 ├── index.html
-
 └── style.css
 
 index.html: The main HTML file containing the structure of the landing page.
