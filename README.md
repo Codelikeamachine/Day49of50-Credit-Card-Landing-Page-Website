@@ -27,12 +27,19 @@ Navigate through different sections using the menu bar.
 Explore the features and services provided by the fictional credit card company.
 View testimonials and statistics to understand user satisfaction and experience.
 # Project Structure
+
 credit-card-landing-page/
+
 ├── Assets/
+
 │   ├── Icons/
+
 │   └── Photos/
+
 ├── index.html
+
 └── style.css
+
 index.html: The main HTML file containing the structure of the landing page.
 style.css: The CSS file containing styles for the landing page.
 Assets/: Directory containing icons and photos used in the project.
